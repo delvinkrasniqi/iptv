@@ -1,0 +1,53 @@
+#EXTM3U
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",ANTENA-TV SHKODER
+http://cineapp.org:8000/Fernando/Fernando/9734?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/gRvEH4v.png" group-title="Undefined",AlbUK TV
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Aniplus_Asia_Logo.png/512px-Aniplus_Asia_Logo.png" group-title="Undefined;FRANCE",Aniplus (Indonesian subtitle) (576p) [Geo-blocked]
+http://210.210.155.37/dr9445/h/h02/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Eurofilm
+http://cineapp.org:8000/Fernando/Fernando/9619?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AF;AL;KH" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews German
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2573&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Film Nje HD
+http://cineapp.org:8000/Fernando/Fernando/9615?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="General;FRANCE",KBS World (720p)
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/512px-KBS_World_%282009%29.svg.png" group-title="General;FRANCE",KBS World (720p)
+https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",KLAN TV
+http://cineapp.org:8000/Fernando/Fernando/9590?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Kinema Fantasy
+http://cineapp.org:8000/Fernando/Fernando/9722?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Kinema Milenium 1
+http://cineapp.org:8000/Fernando/Fernando/9725?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Kinema Super
+http://cineapp.org:8000/Fernando/Fernando/9729?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",Medina TV
+http://cineapp.org:8000/Fernando/Fernando/9745?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="News",News 24
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/PWGMnzW.jpg" group-title="News",News 24
+http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/CAM3f2n.png" group-title="Undefined",News 24
+https://tv.balkanweb.com/news24/livestream/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/l8Z9BRE.png" group-title="Undefined",Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",RTK 1
+http://cineapp.org:8000/Fernando/Fernando/9653?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",RTK 3
+http://cineapp.org:8000/Fernando/Fernando/9654?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/3ODbxcM.png" group-title="Religious",Rede Super (432p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/10205943&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",STAR PLUS SHKODRA
+http://cineapp.org:8000/Fernando/Fernando/9735?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Sport",TRING SPORT 4
+http://cineapp.org:8000/Fernando/Fernando/9678?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="https://i.imgur.com/k9WqPLZ.png" group-title="Undefined",TV7
+http://media.az-mediaserver.com:1935/7064/7064/chunklist_w464537904.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",WebStar Cinema DE HD
+http://cineapp.org:8000/Fernando/Fernando/44451?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",WebStar Qifteli HD
+http://cineapp.org:8000/Fernando/Fernando/44461?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AL" tvg-logo="" group-title="Undefined",X Action HD
+http://cineapp.org:8000/Fernando/Fernando/9711?checkedby:iptvcat.com
